@@ -43,6 +43,17 @@ Usage
 ```
 ------------
 
+
+### Requirements
+Make sure you have `curl` installed before trying to use this.
+
+To install `curl` do as:
+```csharp
+   sudo apt-get install curl
+```
+
+
+
 ### Good Practices
 It's always better and cleaner to create an alias for the bash script so that you can use it easier.
 ```csharp
