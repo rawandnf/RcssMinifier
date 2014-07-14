@@ -14,7 +14,7 @@ function helpOutput {
 	echo "	- [-n] followed with the output file name. Do NOT write extensions."
 	echo "	- [-f] followed with the file names separated with space wrapped in double quotes [\"]"
 	echo "	* THESE PARAMS ARE REQUIRED in this case."
-	echo "- User [-r] to remove the .css file automatically."
+	echo "	- User [-r] to remove the .css file automatically."
 	exit
 }
 
